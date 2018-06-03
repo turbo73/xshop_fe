@@ -29,9 +29,9 @@
               <h5>使用第三方帐号登录</h5>
             </li>
             <li class="other-login">
-              <a class="qq" href="http://shop.projectsedu.com:8001/login/qq/"></a>
-              <a class="sina" href="http://shop.projectsedu.com:8001/login/weibo/"></a>
-              <a class="weixin" href="http://shop.projectsedu.com:8001/login/weixin/"></a>
+              <a class="qq" href="/login/qq/"></a>
+              <a class="sina" href="/login/weibo/"></a>
+              <a class="weixin" href="/login/weixin/"></a>
             </li>
           </ul>
           <p class="form-p">

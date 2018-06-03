@@ -1,3 +1,3 @@
 module.exports = {
-  "/": "http://shop.projectsedu.com:8001"
+  "/": "http://0.0.0.0:8001"
 };

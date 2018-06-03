@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-let host = 'http://shop.projectsedu.com';
+let host = 'http://172.16.90.5:8081';
 
 //获取商品类别信息
 export const queryCategorygoods = params => { return axios.get(`${host}/indexgoods/`) }
